@@ -1,3 +1,7 @@
+*{
+    margin:0;
+    padding:0;
+}
 .noto-sans-tc-font {
     font-family: "Noto Sans TC", sans-serif;
     font-optical-sizing: auto;
@@ -11,12 +15,16 @@
     padding-top: 50px;
 }
 
+.yellow{
+    background-color:rgba(255,255,0,0.3);
+}
+
 h1{
     text-align: left;
     margin: 6px;
 }
 
 img {
-    box-shadow: 3px 3px lightgray;
+    box-shadow: 3px 3px 2px lightgray;
     margin: 6px;
 }
