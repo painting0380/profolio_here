@@ -12,7 +12,8 @@
 .container{
     margin: auto;
     width: 80%;
-    padding-top: 50px;
+    padding: 50px auto;
+    text-align: center;
 }
 
 .yellow{
