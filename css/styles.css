@@ -26,6 +26,10 @@
     background-color:rgba(0,255,0,0.3);
 }
 
+.red{
+    background-color:rgba(255,0,0,0.2);
+}
+
 h1{
     text-align: left;
     margin: 6px;
