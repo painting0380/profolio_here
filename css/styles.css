@@ -8,13 +8,15 @@
 .container{
     margin: auto;
     width: 80%;
+    padding-top: 50px;
 }
 
 h1{
     text-align: left;
+    margin: 6px;
 }
 
 img {
     box-shadow: 3px 3px lightgray;
-    margin: 10px;
+    margin: 6px;
 }
