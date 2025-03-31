@@ -10,6 +10,10 @@
     width: 80%;
 }
 
+h1{
+    text-align: left;
+}
+
 img {
     box-shadow: 3px 3px lightgray;
     margin: 10px;
