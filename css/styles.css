@@ -31,8 +31,9 @@
 }
 
 h1{
-    text-align: left;
     margin: 6px;
+    position: relative;
+    right: 450px;
 }
 
 img {
